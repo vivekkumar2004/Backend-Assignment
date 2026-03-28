@@ -31,11 +31,13 @@ TaskTable: Manages the table layout and "No Tasks" empty state.
 TaskRow: Handles individual task data, Inline Editing, and status toggling.
 Inline Editing: Allows users to update task details directly within the table without page refreshes.
 Responsive Design: Styled with Tailwind CSS for a modern and professional look.
+
 🛠️ Tech Stack
 Frontend: React.js, Vite, Tailwind CSS, Axios.
 Backend: Node.js, Express.js.
 Database: MongoDB Atlas (Mongoose ODM).
 Security: JSON Web Tokens (JWT) & Bcrypt.js for password hashing.
+
 🚀 Setup & Installation
 1. Backend Setup
 Navigate to the backend folder: cd backend
